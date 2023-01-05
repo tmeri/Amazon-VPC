@@ -20,6 +20,10 @@ Name: Private-1B
 Availability Zone: us-east-1b
 IPv4 CIDR Block: 10.0.4.0/24
 
+Name: Private-1C
+Availability Zone: us-east-1a
+IPv4 CIDR Block: 10.0.5.0/24
+
 # Create private route table
 
 Name: Private-RT
